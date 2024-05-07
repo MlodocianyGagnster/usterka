@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/usterka/static/js/main.bea7e9fb.js",
+    "index.html": "/usterka/index.html",
+    "main.bea7e9fb.js.map": "/usterka/static/js/main.bea7e9fb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bea7e9fb.js"
+  ]
+}
